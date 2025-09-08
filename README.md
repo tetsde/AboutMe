@@ -44,3 +44,6 @@ Social Media · Content Creation · Video Editing
 
 # Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tetsde&layout=compact&theme=default)  
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://vn.linkedin.com/in/tongphuochoainam2606)
+
