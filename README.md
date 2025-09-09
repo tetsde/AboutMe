@@ -11,7 +11,7 @@
 Python · JavaScript · HTML · CSS · FastAPI  
 
 **AI & Data**  
-Machine Learning · RAG systems · Automation  
+  RAG systems · Automation  
 
 **Marketing & Content**  
 Social Media · Content Creation · Video Editing  
